@@ -29,10 +29,10 @@
 
 <br/>
 
-<a href="https://github.com/julienbernat">
-  [comment]: <> (<img height="180em" src="https://github-readme-stats.vercel.app/api?username=julienbernat&theme=buefy&show_icons=true" />)
-  [//]: <> (<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julienbernat&theme=buefy&layout=compact" />)
-</a>
+[<a href="https://github.com/julienbernat">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=julienbernat&theme=buefy&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julienbernat&theme=buefy&layout=compact" />
+</a>](url)
 
 <br/>
 
