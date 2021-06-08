@@ -30,9 +30,9 @@
 <br/>
 
 <a href="https://github.com/julienbernat">
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=julienbernat)](https://github.com/julienbernat)
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=julienbernat&theme=buefy&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julienbernat&theme=buefy&layout=compact" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/pin/?username=julienbernat" />
 </a>
 
 <br/>
