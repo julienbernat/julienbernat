@@ -38,6 +38,6 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/julien-bernat-9556971b0/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Aditya%20Vikram%20Singh-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/julien-bernat-9556971b0/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Julien%20Bernat%20Singh-blue?style=flat-square&logo=linkedin"></a>
 <a href="mailto:jul.b@outlook.com"><img alt="Email" src="https://img.shields.io/badge/Email-jul.b@outlook.com-blue?style=flat-square&logo=gmail"></a>
 </p>
