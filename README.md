@@ -32,7 +32,7 @@
 
 ### Interesting stats
 
-[![My Stats](https://github-readme-stats.vercel.app/api/?username=anuraghazra)](https://github.com/julienbernat/github-readme-stats)
+[![My Stats](https://github-readme-stats.vercel.app/api/?username=julienbernat)](https://github.com/julienbernat/github-readme-stats)
 
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
