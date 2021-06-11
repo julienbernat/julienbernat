@@ -30,6 +30,10 @@
 
 <br/>
 
+### Interesting stats
+
+![Julien Bernat's stats](https://github-readme-stats.vercel.app/api?username=julienbernat&show_icons=true)
+
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
