@@ -3,7 +3,6 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🎓 &nbsp; Studying Computer Science, imagery and digital media at University of Sherbrooke.
-- 💼 &nbsp; Worked for Sportfolios as a Web Developer and Technical Lead.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
