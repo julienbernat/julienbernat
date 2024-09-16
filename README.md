@@ -2,7 +2,7 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🎓 &nbsp; Studying Computer Science, imagery and digital media at University of Sherbrooke.
+- 🎓 &nbsp; Graduated in Computer Science, imagery and digital media at University of Sherbrooke.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
